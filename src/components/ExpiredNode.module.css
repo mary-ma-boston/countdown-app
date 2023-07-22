@@ -1,0 +1,18 @@
+.expired{
+    text-align: center;
+    padding: 2rem;
+    border: 1px solid #ebebeb;
+    border-radius: 0.25rem;
+    margin: 0.5rem;
+
+}
+
+.expired >span{
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: red;
+}
+
+.expired >p{
+    font-size: 1.5rem;
+}

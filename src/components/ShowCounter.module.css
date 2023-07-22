@@ -1,0 +1,11 @@
+.show-counter{
+    padding: 0.5rem;
+}
+
+.show-counter p{
+    line-height: 1.25rem;
+    padding: 0 0.75rem 0 0.75rem;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
